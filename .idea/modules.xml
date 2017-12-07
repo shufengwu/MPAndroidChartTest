@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MPAndroidChartTest.iml" filepath="$PROJECT_DIR$/MPAndroidChartTest.iml" />
+      <module fileurl="file://H:\software\myProject\MPAndroidChartTest2\MPAndroidChartTest.iml" filepath="H:\software\myProject\MPAndroidChartTest2\MPAndroidChartTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MPAndroidChartTest2.iml" filepath="$PROJECT_DIR$/.idea/MPAndroidChartTest2.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://H:\software\myProject\MPAndroidChartTest2\app\app.iml" filepath="H:\software\myProject\MPAndroidChartTest2\app\app.iml" />
     </modules>
   </component>
 </project>
